@@ -1,0 +1,16 @@
+{
+  "name": "ircnpm3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ircnpm2": "^1.0.0"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "miau": "node miau.js"
+  },
+  "author": "Iuoras Razvan",
+  "license": "ISC",
+  "description": "Iuoras Razvan v2.0.0 tag treeone",
+  "devDependencies": {}
+}
